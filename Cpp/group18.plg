@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: group18 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\51989\AppData\Local\Temp\RSP23F9.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/group18.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Group18\Group18\group18Dlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\51989\AppData\Local\Temp\RSP23F9.tmp" 
+Creating temporary file "C:\Users\51989\AppData\Local\Temp\RSP23FA.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/group18.pdb" /debug /machine:I386 /out:"Debug/group18.exe" /pdbtype:sept 
+.\Debug\group18.obj
+.\Debug\group18Dlg.obj
+.\Debug\StdAfx.obj
+.\Debug\group18.res
+.\Debug\WINMM.LIB
+.\Debug\KLD.LIB
+.\Debug\WinIo.lib
+.\Pcomm.lib
+]
+Creating command line "link.exe @C:\Users\51989\AppData\Local\Temp\RSP23FA.tmp"
+<h3>Output Window</h3>
+Compiling...
+group18Dlg.cpp
+E:\Group18\Group18\group18Dlg.cpp(315) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\Group18\Group18\group18Dlg.cpp(316) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/group18.bsc"  .\Debug\StdAfx.sbr .\Debug\group18.sbr .\Debug\group18Dlg.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+group18.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
