@@ -19,4 +19,4 @@ The project builds a Five-In-A-Row(also known as Gobang or Gomoku) robot with vo
 
 To do these, we modeled the SCARA and connected points in its work space and angular displacement of its arms using table look-up scheme. Camera calibration is conducted by Canny Edge Detector, Hough Line Transform and Perspective Transformation and image recognition is based on pixel operation and morphology transformations as opening transformation. A new priority algorithm is constructed to decide where to place shones for a Five-In-A-Row game. Serial communication between host computer and slave computer is established to monitor the movement of the arms. The voice synthesis is built on pygame.
 
-During the process of testing, the robot showed the property of amenity, accuracy in coordination recognizing and motion, and challenge.
+During the process of testing, the robot showed the property of amenity, accuracy in coordination recognizing and motion, and the game versus it is challenging.
