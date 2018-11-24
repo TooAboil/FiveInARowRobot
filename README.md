@@ -1,5 +1,7 @@
 # FiveInARowRobot
+
 机电自动化实践课程设计，利用四自由度机器人和工业相机搭建样机，为有眼疾的退休老大爷提供帮助。
+
 A class assignment to build a robot for a retired man with eye illness by SCARA and industrial camera. 
 
 据人口普查数据，中国老年人口数量庞大并逐年增加，有老龄化趋势，针对老年人口的科技产品开发有着良好前景。对互联网老人社区进行的爬虫与分析表明，身心健康是老人的需求。
